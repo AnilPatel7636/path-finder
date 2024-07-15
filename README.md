@@ -34,5 +34,9 @@ Here's a cool demonstration that explains the project:
 </p>
 
 The video has also been attached. Kindly download and view it for futher clarification.
-![Dijkstra's Algorithm Simulation](simulation.mp4)
+
+[Watch the video](simulation.mp4)
+
+
+
 
